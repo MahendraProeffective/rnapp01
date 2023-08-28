@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rnapp01",
+    "slug": "rnapp01",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rnapp01"
+}
